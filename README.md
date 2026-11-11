@@ -56,7 +56,7 @@ The script expects a CSV named `Dataset2_odd_students.csv`, supplied separately 
 ```
 .
 ├── aidataproject.py                      # Script export of the Colab notebook
-├── AI_Data_Science_Project_Report.pdf      # Written project report
+├── AI_Datas_Project.docx                 # Written project report
 ├── Dataset2_odd_students.csv             # (not included) dataset used by the script
 └── README.md
 ```
